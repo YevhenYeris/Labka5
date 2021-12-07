@@ -1,0 +1,18 @@
+progradfdm HelloWorld;
+uses crt;
+
+var A : float;
+var B : hex;
+var arr : array;
+(**)
+(* Here the main program
+ block starts *)
+begin
+   writeln('Hello, World!');
+   readkey;
+   {1(*(231*)23}
+   //asdfghfdsa adssdas dsa dasd asd
+   A := 4+3-7%7 + 9.213;
+   B := 0x98BF3;
+   arr := array[100];
+end.
